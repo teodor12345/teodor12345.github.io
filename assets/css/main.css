@@ -3096,7 +3096,7 @@ input, select, textarea {
 			font-size: 0.8em;
 			margin-bottom: 0;
 			opacity: 1;
-			visibility: visible;
+			visibility: visible; 
 		}
 
 			#header h1 a {
@@ -3113,7 +3113,7 @@ input, select, textarea {
 			position: absolute;
 			right: 0.7em;
 			text-transform: uppercase;
-			top: 0.7em;
+			top: -2em;
 			
 		}
 		
@@ -3225,9 +3225,6 @@ input, select, textarea {
 					padding-right: 1.25em;
 				}
 
-		}
-		.main-button{
-			
 		}
 
 /* Menu */
