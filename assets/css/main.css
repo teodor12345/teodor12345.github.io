@@ -3467,7 +3467,7 @@ input, select, textarea {
 			#banner {
 				padding: 16em 0 1.25em 0 ;
 				background-color: #2e3141;
-				background-image:   url("../../images/NATURE\ AMAZING.jpg");
+				background-image:url("../../images/NATURE\ AMAZING.jpg");
 				width: auto;
 				background-size: auto,
  cover;
