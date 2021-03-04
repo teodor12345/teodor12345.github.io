@@ -257,14 +257,12 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
-		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
 			border-bottom: 0;
-			
 		}
 
 		h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
@@ -2485,7 +2483,6 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
-		   
 		}
 
 		ul.alt {
@@ -3630,7 +3627,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color:black;
+		background-color: #2e3141;
 		
 		position: relative;
 	}
@@ -3850,11 +3847,12 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style4 {
-				background-color:black;
+				background-color: #39477c;
 			}
 
 				.wrapper.spotlight.style4:before, .wrapper.spotlight.style4:after {
-					color: black;
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2339477c%3B' /%3E%3C/svg%3E");
+				}
 
 				.wrapper.spotlight.style4:before {
 					box-shadow: inset 0 -1px 0 0 #39477c, 0 1px 0 0 #39477c;
@@ -3881,11 +3879,11 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style6 {
-				background-color: black;
+				background-color: #2d3a69;
 			}
 
 				.wrapper.spotlight.style6:before, .wrapper.spotlight.style6:after {
-					color: black;
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232d3a69%3B' /%3E%3C/svg%3E");
 				}
 
 				.wrapper.spotlight.style6:before {
