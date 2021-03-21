@@ -3465,7 +3465,7 @@ input, select, textarea {
 		@media screen and (max-width: 2880px) {
 
 			#banner {
-				padding: 39em 0 1.25em 0 ;
+				padding: 35em 0 1.25em 0 ;
 				background-color: #2e3141;
 				background-image:url("../../images/sin\ city\ best.jpg");
 				width: auto;
@@ -4010,6 +4010,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		margin: 0 auto;
 		width: 55em;
+		
 	}
 
 		#footer .inner > * {
