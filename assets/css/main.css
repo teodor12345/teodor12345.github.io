@@ -4009,7 +4009,8 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 auto;
-		width: 55em;
+		
+		background: black;
 		
 	}
 
@@ -4032,6 +4033,7 @@ input, select, textarea {
 			margin: 4em 0 2em 0;
 			padding: 2em 0 0 0;
 			width: 100%;
+			background: black;
 		}
 
 			#footer .inner .copyright li {
