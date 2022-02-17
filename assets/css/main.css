@@ -3289,6 +3289,7 @@ input, select, textarea {
 			opacity: 0;
 			position: relative;
 			width: 18em;
+			background: black;
 		}
 
 		#menu h2 {
