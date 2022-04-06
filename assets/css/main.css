@@ -3510,7 +3510,8 @@ input, select, textarea {
 			#banner {
 				padding: 35em 0 1.25em 0 ;
 				background-color: #2e3141;
-				background-image:url("../../images/sin\ city\ best.jpg");
+				background-image:url("/images/sin\ city\ best.jpg");
+				background-size: cover;
 				width: auto;
 				background-size: auto,
  cover;
